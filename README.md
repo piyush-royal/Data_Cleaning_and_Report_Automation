@@ -164,6 +164,6 @@ This project demonstrates how automated data validation and reporting can improv
 
 ## Author
 
-## Piyush Royal
+Piyush Royal
 
 Data Analytics | Data Visualization | Automation | Python
