@@ -1,6 +1,6 @@
-Data Cleaning & Reporting Automation
+# Data Cleaning & Reporting Automation
 
-Overview
+## Overview
 
 This project automates data cleaning, validation, reporting, and visualization workflows using Python. The objective is to improve data quality, reduce manual preprocessing effort, and generate meaningful reports from HR employee data.
 
@@ -8,7 +8,7 @@ The project performs automated data quality checks, generates summary reports, a
 
 
 
-Objectives
+## Objectives
 
 - Automate data cleaning workflows
 - Validate dataset quality
@@ -19,7 +19,7 @@ Objectives
 
 
 
-Dataset
+## Dataset
 
 The project uses an Employee Attrition dataset containing employee demographic, job-related, and performance information.
 
@@ -38,7 +38,7 @@ Key attributes include:
 
 
 
-Technologies Used
+## Technologies Used
 
 - Python
 - Pandas
@@ -47,14 +47,14 @@ Technologies Used
 
 
 
-Project Workflow
+## Project Workflow
 
-1. Data Loading
+### 1. Data Loading
 
 - Imported employee data from CSV files
 - Validated dataset structure and dimensions
 
-2. Data Quality Assessment
+### 2. Data Quality Assessment
 
 Performed automated checks for:
 
@@ -63,13 +63,13 @@ Performed automated checks for:
 - Dataset Dimensions
 - Column Validation
 
-3. Data Cleaning
+### 3. Data Cleaning
 
 - Verified data completeness
 - Ensured data consistency
 - Prepared dataset for reporting
 
-4. Automated Reporting
+### 4. Automated Reporting
 
 Generated a Data Quality Report containing:
 
@@ -78,7 +78,7 @@ Generated a Data Quality Report containing:
 - Missing Values Count
 - Duplicate Records Count
 
-5. Data Visualization
+### 5. Data Visualization
 
 Created automated visual reports including:
 
@@ -89,7 +89,7 @@ Created automated visual reports including:
 
 
 
-Project Structure
+## Project Structure
 
 Data-Cleaning-and-Reporting-Automation/
 │
@@ -110,7 +110,7 @@ Data-Cleaning-and-Reporting-Automation/
 
 
 
-Data Quality Results
+## Data Quality Results
 
 Metric| Result
 Missing Values| 0
@@ -120,7 +120,7 @@ The dataset passed all automated quality checks and required no additional clean
 
 
 
-Key Insights
+## Key Insights
 
 - No missing values were detected in the dataset.
 - No duplicate records were found.
@@ -131,13 +131,13 @@ Key Insights
 
 
 
-Generated Outputs
+## Generated Outputs
 
-Reports
+### Reports
 
 - Data Quality Report (CSV)
 
-Visualizations
+### Visualizations
 
 - Employee Attrition Distribution
 - Salary Distribution
@@ -146,13 +146,13 @@ Visualizations
 
 
 
-Business Value
+## Business Value
 
 This project demonstrates how automated data validation and reporting can improve efficiency, reduce manual effort, and provide faster access to actionable insights.
 
 
 
-Future Improvements
+## Future Improvements
 
 - Automated Excel Dashboard Generation
 - Power BI Integration
@@ -162,8 +162,8 @@ Future Improvements
 
 
 
-Author
+## Author
 
-Piyush Royal
+## Piyush Royal
 
 Data Analytics | Data Visualization | Automation | Python
